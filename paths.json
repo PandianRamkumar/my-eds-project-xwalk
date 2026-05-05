@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/test-universal-editor-site-ram/:/"
+    "/content/test-universal-editor-site-ram/:/",
+    "/content/test-universal-editor-site-ram/configuration:/.helix/config.json",
+    "/content/test-universal-editor-site-ram/metdata:/metadata.json"
   ],
   "includes": [
     "/content/test-universal-editor-site-ram/"
