@@ -1,8 +1,9 @@
 {
   "mappings": [
-    "/content/testedsprogram/:/"
+    "/content/test-universal-editor-site-ram/:/"
   ],
   "includes": [
-    "/content/testedsprogram/"
+    "/content/test-universal-editor-site-ram/"
   ]
 }
+
